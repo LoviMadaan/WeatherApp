@@ -1,0 +1,19 @@
+.bg {
+    background: url(./pexels-andre-moura-3774895.jpg);
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.heading {
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+.weatherResultBox {
+    margin: auto;
+    width: 500px;
+    height: 300px;
+}
