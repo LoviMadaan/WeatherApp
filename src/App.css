@@ -1,5 +1,5 @@
 .bg {
-    background: url(./pexels-andre-moura-3774895.jpg);
+    background: url(./bg.png);
     height: 50vh;
     display: flex;
     align-items: center;
@@ -8,7 +8,7 @@
 }
 
 .heading {
-    color: whitesmoke;
+    color: rgb(19, 2, 2);
     font-weight: 700;
 }
 
@@ -16,4 +16,19 @@
     margin: auto;
     width: 500px;
     height: 300px;
+}
+
+.icon {
+    margin-top: 2rem;
+    width: 100px;
+    height: 100px;
+}
+
+.cityName {
+    font-size: 35px;
+}
+
+.temp {
+    font-size: 50px;
+    font-weight: 300;
 }
